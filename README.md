@@ -10,11 +10,11 @@ How long does it take for a student to start an internship?
 
 ##	Survival Analysis techniques
 
-###	Non-Parametric Survival Analysis
+###	1) Non-Parametric Survival Analysis
 * Kaplan-Meier 
 *	Nelson-Aalen
 *	Logrank
 
-### Semi-Parametric Survival Analysis
+### 2) Semi-Parametric Survival Analysis
 * Cox Proportional Hazards Model
 
